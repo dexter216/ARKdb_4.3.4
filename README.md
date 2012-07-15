@@ -1,6 +1,9 @@
 	= General information =
  
   ARKdb_4.3.4 Copyright (C) Arkania Community (http://www.arkania.net)
+  Copyright (C) SkyFireEMU  (http://www.projectskyfire.org)
+  Copyright (C) TrinityCore (http://www.trinitycore.org)
+  Copyright (C) MaNGOS      (http://www.getmangos.com)
 
   ArkDB is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
